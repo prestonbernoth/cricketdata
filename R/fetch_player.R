@@ -1,5 +1,5 @@
 #' Fetch Player Data
-#'
+#' steve smith
 #' Fetch individual player data from all matches played. The function will scrape
 #' the data from ESPNCricinfo and return a tibble with one line per innings for all
 #' games a player has played. To identify a player, use their Cricinfo player ID.
